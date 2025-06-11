@@ -22,4 +22,4 @@ There is no longer any need to pass data and setters along the chain of componen
 It's easier to create a store. Instead of a reducer, we create a slice within which we can change states. You no longer need to define actions separately.   
 Source code in the [app-rtk](app-rtk) folder.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiptleha%2Freact-redux&count_bg=%230C7DBD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fmiptleha%2Freact-redux?color=blue&label=hits&size=small)](https://myhits.vercel.app)
